@@ -1,5 +1,8 @@
 # Project: Cognitive Load Detection from EEG + GSR 
 
+Objective: Classify task difficulty or NASA-TLX scores based on brainwave and GSR data. 
+ML Techniques: Feature engineering on Delta, Theta, Alpha bands + deep neural networks. 
+
 
 ## Structure
 
