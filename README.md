@@ -1,5 +1,4 @@
-# Project: Physiological Signals - Pipeline Template
-
+# Project: Cognitive Load Detection from EEG + GSR 
 This package contains a ready-to-run notebook pipeline and small example artifacts.
 
 ## Structure
